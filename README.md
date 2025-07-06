@@ -1,6 +1,10 @@
 # Reddit-Emotion-Propagation
 A research project exploring how emotions like anger, joy, and sadness spread through Reddit comment threads. Combines fine-grained emotion classification (GoEmotions) with network analysis to model digital emotional contagion. Techniques include centrality analysis, community detection, and predictive modeling of emotional cascades.
 
+The dataset can't be uploaded due to size restrictions.
+I have uploded a link to the raw and final dataset.
+https://drive.google.com/drive/folders/1_Mecvm5H6lISQPTrGMMCz4CmXbd4bhki?usp=sharing
+
 ## 🛠️ Installation
 
 1. **Clone the repository**
